@@ -30,9 +30,8 @@ In light of it being a security camera, I opted for distortion. This was accompl
 [] Creating a GUI for option choices.
 
 
-
-
-
+## Languages and tools used:
+Created with Python, OpenCV, and numpy.
 
 -----------------------------------------
 ##### Date project started: 5th November 2021
