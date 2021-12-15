@@ -35,5 +35,5 @@ In light of it being a security camera, I opted for distortion. This was accompl
 
 
 -----------------------------------------
-##### - Date project started: 5th November 2021
-##### - Date project ended: -
+##### Date project started: 5th November 2021
+##### Date project ended: -
