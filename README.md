@@ -35,4 +35,4 @@ Created with Python, OpenCV, and numpy.
 
 -----------------------------------------
 ##### Date project started: 5th November 2021
-##### Date project ended: -
+##### Date project ended: - 10th November 2021
