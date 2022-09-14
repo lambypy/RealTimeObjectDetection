@@ -32,7 +32,3 @@ In light of it being a security camera, I opted for distortion. This was accompl
 
 ## Languages and tools used:
 Created with Python, OpenCV, and numpy.
-
------------------------------------------
-##### Date project started: 5th November 2021
-##### Date project ended: - 10th November 2021
